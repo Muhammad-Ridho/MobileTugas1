@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Pecinta Bunga</string>
+
+    <string-array name="Macam_Macam_Bunga">
+        <item>Bunga Mawar</item>
+        <item>Bunga Matahari</item>
+        <item>Bunga Tulip</item>
+        <item>Bunga Anggrek</item>
+        <item>Bunga Kembang Sepatu</item>
+        <item>Bunga Melati</item>
+
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>
+            Bunga mawar ini tidak hanya memiliki satu warna saja, namun juga memiliki beberapa warna yang berbeda.Bunga mawar memiliki empat warna, dan masing-masing warna memiliki arti tersendiri.
+            Pertama, bunga mawar merah yang paling sering dijumpai ini salah satu tipe tanaman Genus Rosa. Mawar merah ini biasanya menjadi simbol cinta dan kasih untuk diberikan kepada pasangan.
+        </item>
+        <item>
+            Bunga matahari ini merupakan bunga hias dengan kelopak bunga yang besar. Diameter bunga matahari ini mencapai 30 cm. Bunga matahari ini memiliki nama latin Heliantus Annuus L. Bunga ini terkenal dengan warna kuning yang cerah.
+            Bunga matahari dapat menjadi pilihan yang tepat untuk diberikan kepada sahabat karena bunga ini melambangkan keceriaan dan semangat. Selain untuk simbol, bunga ini juga bermanfaat untuk diambil minyak dan bijinya.
+        </item>
+        <item>
+            Bunga tulip merupakan bunga yang jenisnya banyak tersebar di dunia. Bunga tulip memiliki gradasi warna yang kental dan pekat sehingga menarik perhatian  ketika orang melihat.
+            Tulip memiliki nama latin Tulipa, ini adalah salah satu dari 100 spesies genus  berbunga dalam family liliaceae. Bunga tulip salah satu bunga berumbi yang memiliki tinggi mencapai 10-70 cm. Daun pada bunga ini berwarna hijau kebiruan, berlilin,  sempit dan memanjang, serta memiliki 6 helai daun mahkota.
+        </item>
+        <item>
+            Terdapat 5000 jenis anggrek yang ada di Indonesia. Anggrek ini termasuk salah satu tanaman hias yang populer. Anggrek memiliki nama latin Orchidaceae. Bunga ini sangat indah dengan kelopak yang lebar dan tahan lama saat mekar. Bunga anggrek ini memiliki banyak ragam warna mulai dari magenta, ungu, putih, biru, pink, kuning, serta hitam.
+            Bunga anggrek ini memiliki simbol sebagai kesuburan, keanggunan, dan cinta. Oleh karena itu banyak orang memberikann tanaman anggrek sebagai hadiah orang tua baru.
+        </item>
+        <item>
+            Bunga kembang sepatu memiliki warna dan bentuk yang sangat unik. Bunga ini memiliki nama latin hibiscus rosa-sinensis. Bunga ini sering dijadikan sebagai model untuk pembelajaran anak-anak karena bunga ini memiliki bagian yang terlihat sempurna.
+            Bunga kembang sepatu ini memiliki 5 kelopak bunga yang terbuka lebar dan saling berhubungan hingga membentuk mahkota bunga. Putik bunga ini pun terlihat menjulur keluar. Bunga ini memiliki tangkai berbentuk silinder dan banyak serbuk sari yang bertaburan.
+        </item>
+        <item>
+            Sama seperti bunga mawar, bunga melati ini juga salah satu tanaman populer yang ada di Indonesia. Bunga melati ini biasanya digunakan untuk acara pernikahan maupun untuk pemakaman. Bunga melati ini salah satu tanaman hias yang hidupnya menahun. Bunga ini termasuk ke dalam genus merambat yaitu oleaceae.
+            Bunga melati ini memiliki jenis sebanyak 200 jenis melati. Walaupun memiliki banyak jenis, namun yang bisa dijadikan sebagai tanaman hias hanya ada 8 jenis melati.
+        </item>
+
+    </string-array>
+    <string-array name="DeskripsiSingkat">
+        <item>
+            Bunga mawar ini tidak hanya memiliki satu warna saja, namun juga memiliki beberapa warna yang berbeda.
+        </item>
+        <item>
+            Bunga matahari ini merupakan bunga hias dengan kelopak bunga yang besar. Diameter bunga matahari ini mencapai 30 cm.
+        </item>
+        <item>
+            Bunga tulip merupakan bunga yang jenisnya banyak tersebar di dunia. Bunga tulip memiliki gradasi warna yang kental dan pekat sehingga menarik perhatian  ketika orang melihat.
+        </item>
+        <item>
+            Terdapat 5000 jenis anggrek yang ada di Indonesia. Anggrek ini termasuk salah satu tanaman hias yang populer.
+        </item>
+        <item>
+            Bunga kembang sepatu memiliki warna dan bentuk yang sangat unik. Bunga ini memiliki nama latin hibiscus rosa-sinensis.
+        </item>
+        <item>
+             Sama seperti bunga mawar, bunga melati ini juga salah satu tanaman populer yang ada di Indonesia.
+        </item>
+    </string-array>
+
+
+</resources>
